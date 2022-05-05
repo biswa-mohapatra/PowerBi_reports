@@ -4,17 +4,15 @@
 
 ### File Information:
 
-Markup : * dimCurrency
-         * DimCoustomer
-         * DimDate
-         * DimGeography
-         * DimProduct
-         * DimProductCategory
-         * DimProductSubCategory
-         * DimSalesTeritory
-         * FactInternetSales
+   * dimCurrency
+   * DimCoustomer
+   * DimDate
+   * DimGeography     
+   * DimProduct
+   * DimProductCategory
+   * DimProductSubCategory
+   * DimSalesTeritory
+   * FactInternetSales
       
 ### File Format:
-Markup : * .csv (comma sepaated values)
-
-
+   * .csv (comma sepaated values)
