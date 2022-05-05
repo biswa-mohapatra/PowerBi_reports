@@ -3,7 +3,18 @@
 ## This is PowerBI report on sales
 
 ### File Information:
-\begin{itemize}
-  \item This is my first point
-  \item Another point I want to make
-\end{itemize}
+
+Markup : * dimCurrency
+         * DimCoustomer
+         * DimDate
+         * DimGeography
+         * DimProduct
+         * DimProductCategory
+         * DimProductSubCategory
+         * DimSalesTeritory
+         * FactInternetSales
+      
+### File Format:
+Markup : * .csv (comma sepaated values)
+
+
